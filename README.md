@@ -1,2 +1,2 @@
 # Banking-system-project
-This project is based on Banking system created using c++.
+This project is based on Banking system created using C++ Programming Language. 
